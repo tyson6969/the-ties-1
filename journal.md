@@ -47,3 +47,11 @@ i first started by get a switch shaft then i edited the footprint cus it was low
 
 then i aslo go my switch and edited the footprint it still pmo so i edited the footprint much more
 then i connected it to some capcitors and made the rows and coulmns then i connected it to the mcu and then i got a rotary encoder and did the same changed hte footprint and connected it ![alt text](image-8.png)
+
+day 4 YAYAYAY I FINISHED THE SCHEMATICS 5/9/2026
+time tracked - 1.3
+what mostly i did was just add leds i finished the encoders and wired them up
+i also finsihed the leds
+i also added an rgb led for feedback so i started changing the footprint cus it was very ugly and me gag tbh but i made it look cool i am so awsome  and i finished wiring everyting putting it togther and here the finle schematics 
+![alt text](image-9.png)
+![alt text](image-10.png)
