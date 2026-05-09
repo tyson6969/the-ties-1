@@ -38,3 +38,12 @@ boot switch for switching duhh
   ![alt text](image-7.png)
 
 i just saw the docs kept following it not really much trouble and now were done yay 
+
+day 3 started working on the switches 5/9/2026
+time tracked - 1.3
+
+okay so i decied to finally get back to this 
+i first started by get a switch shaft then i edited the footprint cus it was lowk pmo and made it looks better i kinda failed
+
+then i aslo go my switch and edited the footprint it still pmo so i edited the footprint much more
+then i connected it to some capcitors and made the rows and coulmns then i connected it to the mcu and then i got a rotary encoder and did the same changed hte footprint and connected it ![alt text](image-8.png)
