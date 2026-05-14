@@ -55,3 +55,11 @@ i also finsihed the leds
 i also added an rgb led for feedback so i started changing the footprint cus it was very ugly and me gag tbh but i made it look cool i am so awsome  and i finished wiring everyting putting it togther and here the finle schematics 
 ![alt text](image-9.png)
 ![alt text](image-10.png)
+
+
+
+day 5 and 6
+time tracked = 2h
+hello there dear reviewer
+sososoos i did alot of things well not alot kinda one but like kinda alot at the same time after i finished the schematics it was time for the great pcb so the first part was like 2 days ago and i was super sick and tired so i might not rember what i did but all i remember is me making the pcb outline adding the switches and the switch caps i think and there was a problem with the switch caps so i had to redo the footprint all over again and then i placed the board and wired the caps for it 
+and part 2 is where i finsihed itnot alot happened just placing the parts going back and fourtgh i also made the schematics look a bit nicer and i noticed an issue with the switches that the 3d model was off so i had to re do all the switches but i finally got it and now its finished looks pretty ![alt text](image-11.png)
