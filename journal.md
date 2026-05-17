@@ -77,6 +77,13 @@ but before routing i had to add some desgin rules so i did that changed everythi
 here is progress 
 
 day 8
-3:53 sorry for not journling as much i was pretty tired
+time tracked: 3:53h
+ sorry for not journling as much i was pretty tired
 
 holyy molly ok so i dont remember everything that happened cus it was multipale sessions  butt basically i think i started with the encoders and it was also very tricky cus i had to take them up from he bottom and then route them all the way up i am pretty tired cus its so annoying to like route and get all of these connections out of the way but we made it then i also connected the user led which was the hardest cus the pins were barruied deep under the led was up on the b oard so i had to do alot of go around untill i finally connected then i started with the usb DP connections and had to route themm all the way under and ofc i had to wiggle everything to make space for it ugh then seesion 2 where i think i started with the leds but at first i thought there was something weird but idk then after connecting all of them i relized idk where the buffer is so i went to change the buffer for the leds and then panic started i relized i had all the leds backwards so i had to re locate each switch and re route the pins,,, smh pain pain but i did it and i went to route the debug header and after that i added power for all the leds and routed them in rows so it can take power and i touted the power then i went to route the 5v usb yaya to the voltage regulator to get a 3v3 output to connect the encoders and speaking of encoders i discoverd my dumbahh had the caps flipped so i had to re flip them and re route them i have must been really tierd when i routed htem back then also i discoverd i had an issue with the encoder schematics so i edited that too and then i i i routed all the rest of the 3v3 power to the bottom and then the 1v1 which was verry annoying cus i bassicaly had 0 room but i finally made it and after that i routed all of the gnd pins rebuild hte inner layers and finally YAYAYAYAY WE FINISHED yippe finished all the routing every trace with my heart ![alt text](image-13.png) now bye dear reviewer 
+
+
+day 9 
+time tracked = 20 mins didint do much just filled some copper regions made it look betetr added alot of extra vias and its done
+the pcb is done finally after 18 hrs of brutal brutal missery i did it i finished the pcb yuayayayayyaya im so happy okay now onto the the cad which is easy cus i love cad thx to construct
+![alt text](image-14.png)
