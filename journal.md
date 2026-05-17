@@ -90,3 +90,8 @@ the pcb is done finally after 18 hrs of brutal brutal missery i did it i finishe
 i am not done with it tho i am gonna improve the silk screen much more and gonna make it look cleaner just give me time cus i am tired of the easyeda menu
 
 ![alt text](image-14.png)
+
+day 10
+time tracked 1.20h
+okay so i starded with the case desgin and i first went to easy eda to get the step files but after i did that for some reason most of the 3d models of some part wont load so smart me went to see why and hten idk i played alot and i ended up binding those part to a random 3dmodel so i had to go back remove the 3d models and re bind them to the coorect one im so done but i finally got the step to work got it into cad anddndnd we need to start working so i just slept and went to start tmrw okay it wasnt  much i jsut made a simple box tried to make a cool pattren but failed got the switch cut outs from a kle data thing then made a knob for the encoder and thats it gonna make the case look much better tho
+![alt text](image-15.png)
