@@ -86,4 +86,7 @@ holyy molly ok so i dont remember everything that happened cus it was multipale 
 day 9 
 time tracked = 20 mins didint do much just filled some copper regions made it look betetr added alot of extra vias and its done
 the pcb is done finally after 18 hrs of brutal brutal missery i did it i finished the pcb yuayayayayyaya im so happy okay now onto the the cad which is easy cus i love cad thx to construct
+
+i am not done with it tho i am gonna improve the silk screen much more and gonna make it look cleaner just give me time cus i am tired of the easyeda menu
+
 ![alt text](image-14.png)
