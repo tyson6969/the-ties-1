@@ -95,3 +95,7 @@ day 10
 time tracked 1.20h
 okay so i starded with the case desgin and i first went to easy eda to get the step files but after i did that for some reason most of the 3d models of some part wont load so smart me went to see why and hten idk i played alot and i ended up binding those part to a random 3dmodel so i had to go back remove the 3d models and re bind them to the coorect one im so done but i finally got the step to work got it into cad anddndnd we need to start working so i just slept and went to start tmrw okay it wasnt  much i jsut made a simple box tried to make a cool pattren but failed got the switch cut outs from a kle data thing then made a knob for the encoder and thats it gonna make the case look much better tho
 ![alt text](image-15.png)
+
+day 11 
+time tracked 30 mins
+okay sooo i made plate for the keyboard so it hides the ugly lookin switches also the same for encoders i made the case look pretier i added a merow text all though removed it then  it came to switches i had a pre desgined switch so i just added it edited a lil so its like a lil shorter and its doen i took a photo then got the part popped them into bambu studio but lapse for some reason didint change the screen pain but i got it all setup and here is how it looks ![alt text](image-16.png)
