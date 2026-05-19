@@ -55,4 +55,8 @@ It runs on **QMK firmware**, which is also open source.
 ### Software
 [Software](https://github.com/tyson6969/the-ties-1/tree/main/Software)
 
+## Demo
+
+https://youtu.be/uFGrd8xYUWo
+
 # NO AI WAS USED IN THIS PROJECT
