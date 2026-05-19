@@ -51,4 +51,8 @@ It runs on **QMK firmware**, which is also open source.
 ### 3D Printed Case
 [3D Model](https://github.com/tyson6969/the-ties-1/blob/main/the%20ties%20CASE.stl)
 
+
+### Software
+
+
 # NO AI WAS USED IN THIS PROJECT
