@@ -46,9 +46,9 @@ It runs on **QMK firmware**, which is also open source.
 [BOM](https://github.com/tyson6969/the-ties-1/blob/main/BOM_Board1_Schematic1_2026-05-19.xlsx)
 
 ### Gerber Files
-[Gerber Files]([thetiesgerber.zip](https://github.com/tyson6969/the-ties-1/blob/main/thetiesgerber.zip))
+[Gerber Files](https://github.com/tyson6969/the-ties-1/blob/main/thetiesgerber.zip)
 
 ### 3D Printed Case
-[3D Model](<[the ties CASE.stl](https://github.com/tyson6969/the-ties-1/blob/main/the%20ties%20CASE.stl)>)
+[3D Model](https://github.com/tyson6969/the-ties-1/blob/main/the%20ties%20CASE.stl)
 
 # NO AI WAS USED IN THIS PROJECT
