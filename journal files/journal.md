@@ -10,7 +10,7 @@ soooooooooooo firstly ts was honestly annoying bro omg i wanted to makea a macro
 i placed the chip in easyeda and i edited the footprint to make it look a lil nice easy to work with ik i am a dumbahh
 
 so i started by adding all the capcitors linking them to gnd and honsetly idk what was i doing i kept looking between the docs and drc to figure out what to do i added caps to the ivodd pins all of em then i decided to add the usb c which gave me lotss of toruble dude i first started routing it with my skills learnt from the usb hub hehehehe i connected them to the usb of the pico i added a shield but when i saw it if elt it looekd ugly asf so i deleted everyting and tried making it look pretty but i felt like it wont work so i had to redo everything again painn and now the usb c is done i think here is the schamaatics so far 
-looks so messy ik ik ![alt text](image.png)
+looks so messy ik ik ! okay my dumbahh lost the pic sorry but here is the final usb c i think ![alt text](image.png)
 
 
 
@@ -98,4 +98,4 @@ okay so i starded with the case desgin and i first went to easy eda to get the s
 
 day 11 
 time tracked 30 mins
-okay sooo i made plate for the keyboard so it hides the ugly lookin switches also the same for encoders i made the case look pretier i added a merow text all though removed it then  it came to switches i had a pre desgined switch so i just added it edited a lil so its like a lil shorter and its doen i took a photo then got the part popped them into bambu studio but lapse for some reason didint change the screen pain but i got it all setup and here is how it looks ![alt text](image-16.png)
+okay sooo i made plate for the keyboard so it hides the ugly lookin switches also the same for encoders i made the case look pretier i added a merow text all though removed it then  it came to switches i had a pre desgined switch so i just added it edited a lil so its like a lil shorter and its doen i took a photo then got the part popped them into bambu studio but lapse for some reason didint change the screen pain but i got it all setup and here is how it looks ![alt text](image-16.png) okay its now software time but since i asked in horizon help if i can use open source code im just gonna add code i knwo is gonna work because it has same mcu and same layout of rows and
