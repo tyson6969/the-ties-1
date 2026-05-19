@@ -18,7 +18,7 @@ A **9 key 3 encoder macropad** running on QMK firmware and a **RP2040 MCU**
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 
-Built on the **RP2040** - integrated directly into the board with all the typical components you will see on a RP2040 dev board.
+Built on the **RP2040**  integrated directly into the board with all the typical components you will see on a RP2040 dev board.
 
 **Schematics:**
 
@@ -35,8 +35,9 @@ Fully 3D printed
 
 **Credits:**
 
-This firmware is based on open source code by Robert Fernandez. We forked it with minimal modifications, but all the original code is from them.
-
+This firmware is based on open source code by Robert Feranec
+https://www.youtube.com/@RobertFeranec. 
+i forked it with minimal modifications, but all the original code is from them.
 It runs on **QMK firmware**, which is also open source.
 
 ## Files
@@ -49,3 +50,5 @@ It runs on **QMK firmware**, which is also open source.
 
 ### 3D Printed Case
 [3D Model](<the ties CASE.stl>)
+
+# NO AI WAS USED IN THIS PROJECT
