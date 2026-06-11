@@ -56,7 +56,7 @@ It runs on **QMK firmware**, which is also open source.
 [Software](https://github.com/tyson6969/the-ties-1/tree/main/Software)
 
 ### f3d files
-
+[3D file ](https://github.com/tyson6969/the-ties-1/blob/main/the%20ties.f3z)
 
 ## Demo
 
