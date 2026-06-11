@@ -58,6 +58,9 @@ It runs on **QMK firmware**, which is also open source.
 ### f3d files
 [3D file ](https://github.com/tyson6969/the-ties-1/blob/main/the%20ties.f3z)
 
+### ebro files
+[3D file ](https://github.com/tyson6969/the-ties-1/blob/main/the%20ties%20.epro) this for mr cyao 
+
 ## Demo
 
 https://youtu.be/uFGrd8xYUWo
